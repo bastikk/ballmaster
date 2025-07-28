@@ -5,7 +5,7 @@ Werkzeug==3.1.1
 # Компьютерное зрение
 opencv-python==4.9.0.80
 ultralytics==8.2.0
-mediapipe==0.11.1
+mediapipe==0.10.21
 
 # Математические вычисления
 numpy==1.24.4
